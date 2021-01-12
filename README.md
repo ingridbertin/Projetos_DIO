@@ -5,7 +5,7 @@ Os projetos contidos nesta pasta foram feitos visando a aplicação prática de 
 ### Projetos feitos até o momento:
 
 * Recriando a página inicial do Instagram: https://ingridbertin.github.io/Projetos_DIO/Instagram/
-* Utilizando o Cypress E2E para testar um blog em Angular:
+* Utilizando o Cypress E2E para testar um blog em Angular.
 
 
 
