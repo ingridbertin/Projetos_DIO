@@ -6,6 +6,9 @@
 
 * Resultado: 
 
-<video width="520" height="400" controls>
-  <source src="./video_netflix.mp4" type="video/mp4">
-</video>
+  <figure class="video_container">
+    <iframe src="./video_netflix.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  </figure>
+
+  
+
