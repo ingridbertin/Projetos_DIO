@@ -12,6 +12,8 @@ Os projetos contidos nesta pasta foram feitos visando a aplicação prática de 
 
 * Netflix-clone:   [video_netflix.mp4](https://github.com/ingridbertin/Projetos_DIO/blob/master/Netflix-clone/video_netflix.mp4)
 
+* Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding: Este projeto foi adaptado para realizar testes unitários em uma api que que executa as operações CRUD (criar, ler, atualizar e excluir) em dados armazenados localmente de campos da Bacia de Campos.
+
   
 
 
