@@ -6,13 +6,4 @@
 
 * Resultado: 
 
-  <figure class="video_container">
-    <video controls="true" allowfullscreen="true" poster= "Projetos_DIO/Netflix-clone/img/inicial_imagem.png">
-      <source src="Projetos_DIO/Netflix-clone/video_netflix.mp4" type="video/mp4"
-    </video>
-  </figure>
-
-  ```
-  
-  ```
-
+   [video_netflix.mp4](https://github.com/ingridbertin/Projetos_DIO/blob/master/Netflix-clone/video_netflix.mp4)

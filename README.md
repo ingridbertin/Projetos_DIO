@@ -10,11 +10,9 @@ Os projetos contidos nesta pasta foram feitos visando a aplicação prática de 
 
 * Construindo um projeto de uma API.NET integrada ao MongoDB: Este projeto foi adaptado, pois eu preferi usar o MongoDB local ao invés de usar o Atlas. Os dados que eu usei para testar foram dados da produção de petróleo do campo de Frade, localizado na bacia de Campos, do ano de 2016, disponível no site da ANP.
 
-* Netflix-clone: 
+* Netflix-clone:   [video_netflix.mp4](https://github.com/ingridbertin/Projetos_DIO/blob/master/Netflix-clone/video_netflix.mp4)
 
-  <video width="520" height="400" controls>
-    <source src="./Netflix-clone/video_netflix.mp4" type="video/mp4">
-  </video>
+  
 
 
 
