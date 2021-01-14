@@ -1,0 +1,93 @@
+:root {
+  --vermelha: #e50914;
+  --preta: #141414;
+  --branca: #fff;
+  --cinza-medio: #a9a9a9;
+  --cinza-claro: #e5e5e5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--preta);
+  font-family: 'Times New Roman', Times, serif;
+  color: #fff;
+}
+
+header img {
+  height: 55px;
+}
+main .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.titulo {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+main .container nav a {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+main .container nav a figure img {
+  width: 150px;
+  height: 150px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: transparent;
+  border-radius: 7px;
+}
+
+.container {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+main .container nav {
+  display: flex;
+}
+
+main .container nav a {
+  text-decoration: none;
+}
+
+main .container nav figure figcaption {
+  text-align: center;
+  color: var(--cinza-medio);
+}
+
+main .container nav figure figcaption:hover {
+  color: var(--branca);
+}
+
+.container nav a figure img:hover {
+  border-style: solid;
+  border-width: 4px;
+  border-color: var(--branca);
+  border-radius: 4px;
+  color: var(--branca);
+}
+
+.button {
+  margin-top: 70px;
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: transparent;
+  border: 1px solid var(--cinza-medio);
+  color: var(--cinza-medio);
+  cursor: pointer;
+}
+
+.button:hover {
+  color: var(--cinza-claro);
+  border: 1px solid var(--cinza-claro);
+}

@@ -1,0 +1,26 @@
+@media screen and (max-width: 700px) {
+  .titulo {
+    margin-top: -100px;
+    font-size: 20px;
+  }
+  main .container nav {
+    display: flex;
+    flex-direction: column;
+  }
+  main .container nav a {
+    padding: 2px;
+  }
+  main .container nav a figure img {
+    width: 80px;
+    height: 80px;
+  }
+  .button {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .container nav a {
+    width: 50%;
+  }
+}
