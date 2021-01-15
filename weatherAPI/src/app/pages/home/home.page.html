@@ -1,0 +1,21 @@
+<mat-form-field appearance="outline">
+  <mat-label>Pesquisar</mat-label>
+  <input [formControl]="searchControl" matInput placeholder="Placeholder" />
+  <button
+    [disabled]="!searchControl.valid"
+    class=""
+    click()="doSearch()"
+    mat-flat-button
+    color="primary"
+  >
+    Primary
+  </button>
+</mat-form-field>
+
+<!-- <form class="form-group">
+  <input
+    type="text"
+    placeholder="Search for a city or state"
+    [formControl]="control"
+  />
+</form> -->
